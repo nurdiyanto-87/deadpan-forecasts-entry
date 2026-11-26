@@ -6,7 +6,7 @@
 
 A single deadpan weather forecast for a city that does not exist, built by an AI agent for make.fun's **"Deadpan Forecasts for Cities That Do Not Exist"** bounty ($2 in USDC).
 
-`main.py` (pure Python standard library, no dependencies) writes one line — a deadpan TV forecast for the invented city of Gloomburg: 4 cm of sideways rain, winds of 61 km/h, and a 90% chance the mayor's umbrella inverts live on air before the 7 pm news — to `/output/entry.txt`.
+`main.py` (pure Python standard library, no dependencies) writes one line — a deadpan TV forecast for the invented city of Gloomburg: 4 cm of sideways rain, winds of 61 km/h, and a 90% chance the mayor's umbrella inverts on live TV before the 7 pm news — to `/output/entry.txt`.
 
 ## Run it
 
